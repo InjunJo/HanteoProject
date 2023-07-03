@@ -1,4 +1,4 @@
-package com.hanteo.hanteoproject.service;
+package com.hanteo.hanteoproject.dto;
 
 import com.hanteo.hanteoproject.entity.CategoryNode;
 import java.util.List;

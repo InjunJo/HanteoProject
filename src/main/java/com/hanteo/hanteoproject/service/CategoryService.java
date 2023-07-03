@@ -2,6 +2,7 @@ package com.hanteo.hanteoproject.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.hanteo.hanteoproject.dto.RespCategory;
 import com.hanteo.hanteoproject.entity.BranchNode;
 import com.hanteo.hanteoproject.entity.LeafNode;
 import com.hanteo.hanteoproject.entity.RootNode;

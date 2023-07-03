@@ -6,7 +6,7 @@ import com.hanteo.hanteoproject.entity.CategoryNode;
 import com.hanteo.hanteoproject.entity.LeafNode;
 import com.hanteo.hanteoproject.exception.NotFoundException;
 import com.hanteo.hanteoproject.exception.NotFoundParentException;
-import com.hanteo.hanteoproject.service.RespCategory;
+import com.hanteo.hanteoproject.dto.RespCategory;
 import com.hanteo.hanteoproject.entity.RootNode;
 import java.util.ArrayList;
 import java.util.Collections;
